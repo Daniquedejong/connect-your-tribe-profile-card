@@ -3,21 +3,28 @@
 <body>
   <article>
     <header>
-    <h1>Danique de Jong</h1>
+    <h1> <%= member.name %> <%= member.prefix %> <%= member.surname %> </h1>
     </header>
     <br>
-    <div class="personal information">
+    <!-- <div class="personal information">
     <img class="Danique1" src="assets/Danique1.png"alt="creative coder" height="120em">
+  </div> -->
+  <div class="avatar-puppy">
+    <img class="avatar-puppy" src="./assets/puppy-avatar.jpg" alt="avatar-puppy" height="200em">
   </div>
-    <p class="container" style="text-decoration:underline;">AD Frontend Design & Development 
+
+  <p class="container"><%- member.bio.html %></p>
+
+    <!-- <p class="container" >
+      AD Frontend Design & Development 
       <br>Woon in Hoofddorp
       <br>Youngones freelancer
       <br>Hockeyclub de Kikkers
       <br>Feestjes met vrienden
-      </p>
-      <div class="personal information">
+      </p> -->
+      <!-- <div class="personal information">
         <img class="Waxstempel" src="assets/Waxstempel.jpg"alt="creative coder" height="80em">
-      </div>
+      </div> -->
     </article>
 </body>
 </html>
