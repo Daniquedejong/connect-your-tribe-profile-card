@@ -1,7 +1,7 @@
 
 # Profile card
 
-![Schermafbeelding_20230125_100800](https://user-images.githubusercontent.com/112856683/215750551-8056e673-95c5-4a4b-9d0f-96f6a1512184.png)
+![image](https://user-images.githubusercontent.com/112856683/230007729-22012444-2bc3-42e4-824a-38f2fdf854d2.png)
 
 ## 📚 Inhoudsopgave
 
